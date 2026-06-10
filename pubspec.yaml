@@ -1,6 +1,6 @@
 name: otel_front
 description: "Dartastic OpenTelemetry bridge for Front (shared inbox + email-first support, conversations, channels, rules)."
-version: 0.1.0-beta.2
+version: 0.1.0-beta.3-wip
 repository: https://github.com/dartastic/otel_front
 homepage: https://dartastic.io
 publish_to: https://pub.dartastic.io
